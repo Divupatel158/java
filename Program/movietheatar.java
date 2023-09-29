@@ -1,5 +1,5 @@
 W.A.J.P to creat an app for movie theatar ( book the tickets, cancle the tickets )
- //27-09-2023
+//27-09-2023
 package oops3;
 class movie{
 	int total_ticket=100;	//global non static variable
