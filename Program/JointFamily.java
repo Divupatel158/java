@@ -9,3 +9,4 @@ public class JointFamily {
 	public static void main(String[] args) {
 	}
 }
+
