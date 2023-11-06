@@ -1,6 +1,6 @@
 //06-11-2023
 package oop6;
-abstract class Swarg {//0 abstract class0000000000000000000
+abstract class Swarg {// abstract class
 	void urvashi() {//concrete method
 		System.out.println("Inside urvashi() of ewarg class");
 	}
