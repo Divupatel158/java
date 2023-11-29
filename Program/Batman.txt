@@ -1,0 +1,19 @@
+//27-11-2023
+package oops7;
+//before overrideing equals()
+public class Batman {
+	int age;	//global non static variable
+	//constructor 
+	Batman(int age){
+		this.age=age;
+	}
+	public static void main(String[] args) {
+		Batman b1=new Batman(10);//false
+		Batman b2=new Batman(10);//false
+		System.out.println(b1.equals(b2));
+		System.out.println(b1==b2);	
+	}
+}
+//o/p
+//false
+//false
