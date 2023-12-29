@@ -7,6 +7,8 @@ public class Batman {
 	Batman(int age){
 		this.age=age;
 	}
+	
+	
 	public static void main(String[] args) {
 		Batman b1=new Batman(10);
 		Batman b2=new Batman(10);
